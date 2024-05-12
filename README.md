@@ -1,5 +1,5 @@
 # Similarity Search
-This POC demostrated the role of similarity measures in vector databases. We are using Cosine similarity which measures the cosine of the angle between two vectors in a vector space.
+This POC demonstrates the role of similarity measures in vector databases. We are using Cosine similarity which measures the cosine of the angle between two vectors in a vector space.
 
 ## Pre-requisites
 
