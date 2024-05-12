@@ -14,8 +14,9 @@ This POC demonstrates the role of similarity measures in vector databases. We ar
 ### Configurations
 1. Open Visual Studio and create .env file in your code folder.
 2. Copy & paste below code into .env file. Add values for respective keys.
-    export OPENAI_API_KEY=''
-    PINECONE_API_KEY=""
+####
+export OPENAI_API_KEY=''
+PINECONE_API_KEY=""
 3. Open "installer.ipynb" file in Visual Studio code and click Rull All. It will install all the required libraries.
 
 ## Run the Code
